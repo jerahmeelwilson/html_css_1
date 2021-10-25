@@ -1,0 +1,47 @@
+html {
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: peachpuff;
+  text-shadow: 2px 2px crimson;
+}
+
+.bg-img {
+  background-color: rgba(88, 42, 42, 0.7);
+  background-image: url("images/andrzej-kryszpiniuk-D1IS5s5O9xo-unsplash.jpeg");
+  height: 100%;
+  background-size: 100%;
+  backdrop-filter: blur(5px);
+  margin: 0;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+a {
+  color: whitesmoke;
+}
+h1,
+h2,
+h3 {
+  font-weight: bolder;
+}
+img {
+  width: 15%;
+  box-shadow: 4px 4px 4px crimson;
+}
+div {
+  margin: 0 auto;
+  width: 15%;
+}
+ul {
+  text-align: left;
+  margin: 0;
+  padding-bottom: 20%;
+}
+
+p {
+  width: 60%;
+  text-align: justify;
+  margin: 0 auto;
+}
